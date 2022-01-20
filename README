@@ -1,0 +1,11 @@
+Data Analyst Case Study:
+
+For instructions see: https://www.notion.so/joko/Data-Analyst-Case-Study-Alice-Coffani-1865ac3dd789469c91c836e14125c749
+
+This folder contains:
+
+- A jupyter notebook (html and .ipynb format) with answers to question 1,2 and 4. It also contains the lines of code which prepare the csv file to be used to answer question 3.
+- Two given csv files: transactions.csv and users.csv
+- A new csv file, users_summary.csv, with the data to reply to question 3
+- The GoogleSheet spreadsheet can be found here: https://docs.google.com/spreadsheets/d/10MqaVRdpSEybEzdpATxsG3Y09tBCiHne16awivOX86Y/edit?usp=sharing
+  while a GoogleSlides presentation of the charts to reply to question 3 is here: https://docs.google.com/presentation/d/1-C_uV98ongFpwRTQxS39p_YmjhZ4u1vSzqirpTinn5c/edit?usp=sharing
